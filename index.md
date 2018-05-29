@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+### Контакты
+ - г. Москва
+ - **Email:** oleg_utkin@me.com
+ - **GitHub:** https://github.com/oleggator
 
-You can use the [editor on GitHub](https://github.com/oleggator/oleggator.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Работал с технологиями
+ - С, C++
+ - JavaScript (ES6), Node.js, WebPack, Babel
+ - Go
+ - SQL, Postgresql, MongoDB
+ - Docker
+ - Nginx
+ - Django
+ - HTML, CSS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Образование
+Третий курс кафедры "Информационные системы и телекоммуникации" (ИУ3)
+МГТУ им. Н.Э. Баумана
+(2015-2019)
 
-### Markdown
+### Знание языков
+ - **English** - Intermediate
+ - **Deutsch** - A1 (Goethe-Zertifikat)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oleggator/oleggator.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Курсы
+ - [Курс по C/C++ (Технопарк Mail.ru)](https://park.mail.ru/curriculum/program/discipline/581/)
+ - Курс "Go как язык для backend разработки" (Mail.ru)
+ - В данный момент прохожу [двухгодичный курс "Системный архитектор" (Технопарк Mail.ru)](https://park.mail.ru/curriculum/program/main/)
