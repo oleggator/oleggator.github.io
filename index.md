@@ -12,9 +12,9 @@ Moscow, Russia
  - SQL, Postgresql, MongoDB
  - Docker
  - Nginx
- - Python (базовый уровень), Django
+ - Python (basic level), Django
  - HTML, CSS
- - Java (базовый уровень)
+ - Java (basic level)
 
 ## Education
  - Bachelor course "Information Systems and Telecommunications" (IU-3) Bauman Moscow State Technical University (2015-2019)
